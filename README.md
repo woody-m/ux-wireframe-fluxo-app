@@ -52,7 +52,12 @@ O wireframe é composto por 7 seções organizadas verticalmente, cada uma com f
 ---
 🧠 Princípios de Usabilidade Aplicados
 Heurísticas de Nielsen
-#HeurísticaOnde aplicadaComo#1Visibilidade do status do sistemaHero, Kanban, AnáliseProgress bars nas métricas-chave; cor de coluna indica estado atual#2Correspondência com o mundo realDrawer de tarefaCheckbox de subtarefa espelha lista de papel; linguagem "A fazer / Em andamento / Concluído"#3Controle e liberdade do usuárioFiltrosTags de filtro ativo com botão de remoção individual (✕) e opção "Limpar filtros"#4Consistência e padrõesNavbarLogo sempre à esquerda; ícones padrão (notificação, ajuda, avatar); menu em posição esperada#5Prevenção de errosKanbanTarefas concluídas com opacidade reduzida, dificultando edição acidental#6Reconhecimento em vez de memorizaçãoKanban, FiltrosCor da coluna comunica status sem necessidade de leitura; tags de filtro ativo visíveis#7Flexibilidade e eficiênciaKanbanSuporte a drag-and-drop entre colunas; atalho "+ Adicionar tarefa" visível em cada coluna
+#HeurísticaOnde aplicadaComo#1Visibilidade do status do sistemaHero, Kanban, AnáliseProgress bars nas métricas-chave; cor de coluna indica estado atual
+#2Correspondência com o mundo real Drawer de tarefa Checkbox de subtarefa espelha lista de papel; linguagem "A fazer / Em andamento / Concluído"
+#3Controle e liberdade do usuário Filtros Tags de filtro ativo com botão de remoção individual (✕) e opção "Limpar filtros"
+#4Consistência e padrões Navbar Logo sempre à esquerda; ícones padrão (notificação, ajuda, avatar); menu em posição esperada#5Prevenção de erros Kanban Tarefas concluídas com opacidade reduzida, dificultando edição acidental
+#6Reconhecimento em vez de memorizaçãoKanban, Filtros Cor da coluna comunica status sem necessidade de leitura; tags de filtro ativo visíveis
+#7Flexibilidade e eficiênciaKanbanSuporte a drag-and-drop entre colunas; atalho "+ Adicionar tarefa" visível em cada coluna
 Critérios Ergonômicos de Bastien e Scapin
 CritérioOnde aplicadaComoCompatibilidadeNavbarOrdem do menu reflete fluxo mental: visão geral → projetos → tarefasCarga de trabalhoDrawerCampos mais importantes agrupados no topo; informações complementares abaixo, reduzindo esforço cognitivoFeedback imediatoFiltros, KanbanView ativo em destaque (Kanban vs. Lista); filtros aplicados visíveis como tagsAgrupamentoAnáliseGráficos agrupados por tipo de leitura: tendência temporal (barras), distribuição (donut), síntese (stat cards)Significância dos códigosKanbanCódigo de cor consistente: cinza = a fazer, roxo = em andamento, amarelo = revisão, verde = concluído
 Psicologia Perceptiva (Gestalt)
