@@ -127,6 +127,7 @@ DIO. Formação UX/UI Design — Material do curso.
 
 👤 Autor
 Bruna Woodymila Siqueira Lopes Ivánek 
+
 Desenvolvido como parte do desafio prático da Formação UX/UI Design na DIO.
 
 "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
